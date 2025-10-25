@@ -1,0 +1,9 @@
+
+{
+  "name": "Anne Eye",
+  "description": "An intelligent application that analyzes uploaded images. It either provides a detailed description if an object is the focus, or transcribes the text if the image contains writing.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
